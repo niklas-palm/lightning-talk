@@ -10,7 +10,7 @@ To download, run
 
 To build image, run
 
-`docker build -t testImage .`
+`docker build -t testimage .`
 from inside the repo
 
 To run container, run
